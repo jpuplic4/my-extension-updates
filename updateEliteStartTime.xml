@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="piohoodafcgohjhfbgknnefbhaalegmp">
-    <updatecheck codebase="https://jpuplic4.github.io/my-extension-updates/EliteStartTime.crx" version="1.9" />
+    <updatecheck codebase="https://jpuplic4.github.io/my-extension-updates/EliteStartTime.crx" version="2.10" />
   </app>
 </gupdate>
